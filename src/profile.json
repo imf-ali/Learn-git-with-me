@@ -1,0 +1,12 @@
+{
+	"mentor": {
+		"name": "Fahad Ali",
+    "description": "SDE at Rupeek"
+	},
+  "students": [
+    {
+      "name": "Dummy",
+      "description": "I am a student"
+    }
+  ]
+}
