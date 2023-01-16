@@ -1,0 +1,39 @@
+.mentorStyle,
+.studentStyle{
+    display: flex;
+}
+.mentorClass,
+.studentClass{
+    display: block;
+    border: 1px solid #d2d9e7;
+    border-radius: 7px;
+    z-index: 1;
+    margin-bottom: 30px;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 2px 4px #00000026;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 300px;
+}
+.studentName,
+.studentDes,
+.mentorName,
+.mentorDes{
+    text-align: center;
+    font-size: 18px;
+    padding: 5px;
+    color:#4a4a4a;
+}
+.studentName,
+.mentorName{
+    font-weight: 700;
+}
+.imageStyle{
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60px;
+    margin-bottom: 20px;
+}
