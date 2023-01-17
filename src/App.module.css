@@ -28,6 +28,35 @@
   color: #61dafb;
 }
 
+.imageStyle{
+  display:flex;
+  margin-left: auto;
+  margin-right: 20px;
+  margin-top: 10px;
+  width: 60px;
+  margin-bottom: 20px;
+}
+
+.imageStyle2{
+  display:flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.mainDiv{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+}
+
+.imageDiv {
+  align-items: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

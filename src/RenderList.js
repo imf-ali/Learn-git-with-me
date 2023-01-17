@@ -9,9 +9,19 @@ const RenderList = () => {
     if (mentor) {
       return (
         <React.Fragment>
-          <div className={styles.mentorClass}>
-            <div className={styles.mentorName}>{mentor.name}</div>
-            <div className={styles.mentorDes}>{mentor.description}</div>
+          <h2 className={styles.heading}>Mentor</h2>
+          <div className={styles.mainClass}>
+            <div>
+              <img
+                className={styles.imageStyle}
+                src="https://avatars.githubusercontent.com/u/42451210?v=4"
+                alt="logo"
+              />
+            </div>
+            <div className={styles.mentorClass}>
+              <div className={styles.mentorName}>{mentor.name}</div>
+              <div className={styles.mentorDes}>{mentor.description}</div>
+            </div>
           </div>
         </React.Fragment>
       );
@@ -35,12 +45,8 @@ const RenderList = () => {
 
   return (
     <React.Fragment>
-      <img
-        className={styles.imageStyle}
-        src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"
-        alt="logo"
-      />
-      <Mentor className={styles.mentorStyle} />
+      <Mentor />
+      <h2 className={styles.heading}>Students</h2>
       <StudentList className={styles.studentStyle} />
     </React.Fragment>
   );
