@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Learn-git-with-me/static/css/main.dc53b9a9.css",
-    "main.js": "/Learn-git-with-me/static/js/main.23b09ee7.js",
+    "main.js": "/Learn-git-with-me/static/js/main.0d7f5d59.js",
     "index.html": "/Learn-git-with-me/index.html",
     "main.dc53b9a9.css.map": "/Learn-git-with-me/static/css/main.dc53b9a9.css.map",
-    "main.23b09ee7.js.map": "/Learn-git-with-me/static/js/main.23b09ee7.js.map"
+    "main.0d7f5d59.js.map": "/Learn-git-with-me/static/js/main.0d7f5d59.js.map"
   },
   "entrypoints": [
     "static/css/main.dc53b9a9.css",
-    "static/js/main.23b09ee7.js"
+    "static/js/main.0d7f5d59.js"
   ]
 }
