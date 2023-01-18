@@ -5,10 +5,6 @@
 	},
   "students": [
     {
-      "name": "Dummy",
-      "description": "I am a student"
-    },
-    {
       "name": "Prem Ranjan Pattanayak",
       "description": "Technocrat intern 2023"
     },
