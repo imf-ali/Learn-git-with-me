@@ -33,8 +33,12 @@
 	    "description": "I am a SDE1 at Rupeek"
     },
     {
+	    "name": "Rushabh Marathe",
+	    "description": "SDE-1 at Rupeek"
+    },
+    {
       "name": "Shristi Agarwal",
-	    "description": "I am a Technocrat Intern at Rupeek 2023"
+      "description": "I am a Technocrat Intern at Rupeek 2023"
     }
   ]
 }
