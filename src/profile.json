@@ -45,6 +45,7 @@
       "description": "I am a Technocrat Intern at Rupeek 2024"
     },
     {
+    {
       "name": "Paras",
       "description": "I am a Technocrat Intern at Rupeek 2024"
     },
@@ -53,8 +54,18 @@
       "description": "I am a B.Tech Final Year student and Technocrat Intern at Rupeek 2024"
     },
     {
+     {
       "name": "Aditya Mane",
       "description": "I am a Technocrat Intern at Rupeek 2024"
-    }
+    },
+    {
+      "name": "Devarasetty Vishvas",
+      "description": "I am a B.Tech Final Year student and Technocrat Intern at Rupeek 2024"
+
+    },
+    {
+      "name": "Rada Laksmi A",
+     "description" : " Technocrat Intern at Rupeek 2024"
+	  },
   ]
 }
