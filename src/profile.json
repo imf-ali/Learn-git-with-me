@@ -45,6 +45,9 @@
       "description": "I am a Technocrat Intern at Rupeek 2024"
     },
     {
+      "name": "Ritesh Prajapati",
+      "description": "I am a Technocrat Intern at Rupeek 2024 from VIT Pune"
+    },
     {
       "name": "Paras",
       "description": "I am a Technocrat Intern at Rupeek 2024"
@@ -53,7 +56,6 @@
       "name": "Prasad Kandekar",
       "description": "I am a B.Tech Final Year student and Technocrat Intern at Rupeek 2024"
     },
-    {
      {
       "name": "Aditya Mane",
       "description": "I am a Technocrat Intern at Rupeek 2024"
@@ -66,6 +68,6 @@
     {
       "name": "Rada Laksmi A",
      "description" : " Technocrat Intern at Rupeek 2024"
-	  },
+	  }
   ]
 }
