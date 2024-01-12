@@ -1,8 +1,8 @@
 {
-	"mentor": {
-		"name": "Fahad Ali",
+  "mentor": {
+    "name": "Fahad Ali",
     "description": "SDE at Rupeek"
-	},
+  },
   "students": [
     {
       "name": "Prem Ranjan Pattanayak",
@@ -29,12 +29,12 @@
       "description": "I am a Technocrat Intern at Rupeek 2023"
     },
     {
-	    "name": "Bharat Dhaipule",
-	    "description": "I am a SDE1 at Rupeek"
+      "name": "Bharat Dhaipule",
+      "description": "I am a SDE1 at Rupeek"
     },
     {
-	    "name": "Rushabh Marathe",
-	    "description": "SDE-1 at Rupeek"
+      "name": "Rushabh Marathe",
+      "description": "SDE-1 at Rupeek"
     },
     {
       "name": "Shristi Agarwal",
@@ -45,20 +45,27 @@
       "description": "I am a Technocrat Intern at Rupeek 2024"
     },
     {
-      "name" : "Paras" , 
-      "description" : "I am a Technocrat Intern at Rupeek 2024"
+    {
+      "name": "Paras",
+      "description": "I am a Technocrat Intern at Rupeek 2024"
     },
     {
       "name": "Prasad Kandekar",
       "description": "I am a B.Tech Final Year student and Technocrat Intern at Rupeek 2024"
     },
     {
+     {
+      "name": "Aditya Mane",
+      "description": "I am a Technocrat Intern at Rupeek 2024"
+    },
+    {
       "name": "Devarasetty Vishvas",
       "description": "I am a B.Tech Final Year student and Technocrat Intern at Rupeek 2024"
-    }
-         {
-	  "name": "Rada Laksmi A",
-	 "description" : " Technocrat Intern at Rupeek 2024"
-	  }
+
+    },
+    {
+      "name": "Rada Laksmi A",
+     "description" : " Technocrat Intern at Rupeek 2024"
+	  },
   ]
 }
